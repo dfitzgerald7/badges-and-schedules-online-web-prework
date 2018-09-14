@@ -25,7 +25,7 @@ def printer(array)
     puts names
   end 
   rooms.each do |room|
-    puts rooms
+    puts room
   end 
   
 end 
