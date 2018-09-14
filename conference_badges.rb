@@ -24,5 +24,8 @@ def printer(array)
   badges.each do |name|
     puts names
   end 
+  rooms.each do |room|
+    puts rooms
+  end 
   
 end 
